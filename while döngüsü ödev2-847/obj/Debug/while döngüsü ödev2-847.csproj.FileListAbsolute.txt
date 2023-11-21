@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\while döngüsü ödev2-847\while döngüsü ödev2-847\bin\Debug\while döngüsü ödev2-847.exe.config
+C:\Users\User\source\repos\while döngüsü ödev2-847\while döngüsü ödev2-847\bin\Debug\while döngüsü ödev2-847.exe
+C:\Users\User\source\repos\while döngüsü ödev2-847\while döngüsü ödev2-847\bin\Debug\while döngüsü ödev2-847.pdb
+C:\Users\User\source\repos\while döngüsü ödev2-847\while döngüsü ödev2-847\obj\Debug\while döngüsü ödev2-847.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\while döngüsü ödev2-847\while döngüsü ödev2-847\obj\Debug\while döngüsü ödev2-847.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\while döngüsü ödev2-847\while döngüsü ödev2-847\obj\Debug\while_döngüsü_ödev2_847.Form1.resources
+C:\Users\User\source\repos\while döngüsü ödev2-847\while döngüsü ödev2-847\obj\Debug\while_döngüsü_ödev2_847.Properties.Resources.resources
+C:\Users\User\source\repos\while döngüsü ödev2-847\while döngüsü ödev2-847\obj\Debug\while döngüsü ödev2-847.csproj.GenerateResource.cache
+C:\Users\User\source\repos\while döngüsü ödev2-847\while döngüsü ödev2-847\obj\Debug\while döngüsü ödev2-847.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\while döngüsü ödev2-847\while döngüsü ödev2-847\obj\Debug\while döngüsü ödev2-847.exe
+C:\Users\User\source\repos\while döngüsü ödev2-847\while döngüsü ödev2-847\obj\Debug\while döngüsü ödev2-847.pdb
